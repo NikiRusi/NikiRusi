@@ -26,7 +26,7 @@
   "skills": [
     {
       "category": "Languages",
-      "items": ["Python", "C++", "C#"]
+      "items": ["Python", "C++", "C#", "CSS", "JavaScript"]
     },
     {
       "category": "Frameworks",
@@ -53,4 +53,5 @@
     "name": "Niki Rusi",
     "location": "Jyväskylä, Finland"
   }
+
 }
