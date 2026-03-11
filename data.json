@@ -2,13 +2,13 @@
   "hero": {
     "tag": "ICT Student — Jyväskylä University of Applied Sciences",
     "name": "Niki Rusi",
-    "description": "Programmer. Learner. From reinforcement learning to collaborative software systems."
+    "description": "Programmer. From reinforcement learning to software development."
   },
   "about": {
     "paragraphs": [
       "I'm Niki Rusi — an ICT student at Jyväskylä University of Applied Sciences with a focus on programming.",
-      "I'm drawn to the intersection of intelligent systems and practical software development. Whether training an AI agent or shipping a team project, I care about doing things properly.",
-      "Currently looking for opportunities to contribute to meaningful projects while continuing to grow."
+      "I enjoy making small to medium sized projects for personal use to try to help with my workflow in either my hobbies or my daily life.",
+      "Currently looking for work or internship opportunities."
     ]
   },
   "projects": [
@@ -34,11 +34,11 @@
     },
     {
       "category": "Tools",
-      "items": ["Git", "Visual Studio"]
+      "items": ["Git", "Visual Studio", "Godot", "Unity"]
     },
     {
       "category": "Topics",
-      "items": ["Reinforcement Learning", "Graphics Programming", "Software Development"]
+      "items": ["Reinforcement Learning", "Graphics Programming", "Software Development", "Game Development"]
     }
   ],
   "contact": {
@@ -55,3 +55,4 @@
   }
 
 }
+
