@@ -30,7 +30,7 @@
     {
       "title": "Android App — The German Aerospace Center",
       "description": "Contributed to making an Android app that calculated with bluetooth signals if the user was at a bus stop or in the bus. The app was made for a research project of the German Aerospace Center.",
-      "tags": ["Android", "Bluetooth", "Research"]
+      "tags": ["Android", "Bluetooth", "Research", "Internship"]
     }
   ],
   "skills": [
@@ -65,6 +65,7 @@
   }
 
 }
+
 
 
 
