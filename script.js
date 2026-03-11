@@ -35,7 +35,7 @@ const observer = new IntersectionObserver(entries => {
 reveals.forEach(el => observer.observe(el));
 
 //  Populate content from data.json 
-fetch('sub/data.json')
+fetch('data.json')
   .then(res => res.json())
   .then(data => {
 
@@ -105,4 +105,5 @@ fetch('sub/data.json')
       el.addEventListener('mouseleave', () => { cursor.classList.remove('hover'); ring.classList.remove('hover'); });
     });
   })
+
   .catch(err => console.warn('Could not load data.json:', err));
