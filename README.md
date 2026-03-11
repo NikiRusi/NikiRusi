@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Click [HERE](https://nikirusi.github.io/NikiRusi/) for my portfolio :)
 <!--
 **NikiRusi/NikiRusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
