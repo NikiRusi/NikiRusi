@@ -21,6 +21,16 @@
       "title": "Future Factory — Traffic Map",
       "description": "Collaborated with a multidisciplinary team to enhance a real-time traffic visualisation tool for an industry client. Focused on frontend programming, data handling, and team communication.",
       "tags": ["Teamwork", "Mapping", "Client Project"]
+    },
+    {
+      "title": "Godot Project — The German Aerospace Center",
+      "description": "Contributed to designing and making a serious research game in Godot for my Internship of 6 months.",
+      "tags": ["Game Development", "Godot", "Internship"]
+    },
+    {
+      "title": "Android App — The German Aerospace Center",
+      "description": "Contributed to making an Android app that calculated with bluetooth signals if the user was at a bus stop or in the bus. The app was made for a research project of the German Aerospace Center.",
+      "tags": ["Android", "Bluetooth", "Research"]
     }
   ],
   "skills": [
@@ -55,6 +65,7 @@
   }
 
 }
+
 
 
 
