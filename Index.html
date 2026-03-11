@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Niki Rusi — ICT Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="sub/style.css" />
+</head>
+<body>
+
+  <!-- Custom cursor -->
+  <div class="cursor" id="cursor"></div>
+  <div class="cursor-ring" id="cursorRing"></div>
+
+  <!-- Nav -->
+  <nav id="nav">
+    <a href="#hero" class="nav-logo">NR<span>.</span></a>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero -->
+  <section id="hero">
+    <div class="hero-bg-text"></div>
+    <div class="hero-content">
+      <div class="hero-tag"></div>
+      <h1 class="hero-name"></h1>
+      <p class="hero-desc"></p>
+    </div>
+    <div class="hero-scroll-hint">
+      <div class="scroll-line"></div>
+      scroll
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about">
+    <div class="section-label">01 — About</div>
+    <div class="about-grid">
+      <div class="about-text reveal">
+        <h2 class="section-title">Who I am</h2>
+      </div>
+      <div class="about-img-wrap reveal reveal-delay-2">
+        <img src="me.jpg" alt="Niki Rusi" onerror="this.style.display='none'; this.parentElement.style.background='#1a1a1a';" />
+        <div class="about-img-accent"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Projects -->
+  <section id="projects">
+    <div class="section-label reveal">02 — Projects</div>
+    <h2 class="section-title reveal reveal-delay-1">Selected work</h2>
+    <div class="projects-grid"></div>
+  </section>
+
+  <!-- Skills -->
+  <section id="skills">
+    <div class="section-label reveal">03 — Skills</div>
+    <h2 class="section-title reveal reveal-delay-1">What I work with</h2>
+    <div class="skills-layout"></div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact">
+    <div class="contact-inner">
+      <div class="section-label reveal" style="justify-content:center;">04 — Contact</div>
+      <div class="contact-big reveal reveal-delay-1">Let's<br><span>connect.</span></div>
+      <p class="contact-sub reveal reveal-delay-2">Open to internships, collaborations, and interesting conversations about technology.</p>
+      <div class="contact-links reveal reveal-delay-3"></div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p class="footer-year"></p>
+    <div class="footer-accent"></div>
+    <p class="footer-location"></p>
+  </footer>
+
+  <script src="sub/script.js" defer></script>
+</body>
+</html>
