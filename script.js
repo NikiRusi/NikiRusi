@@ -74,7 +74,7 @@ fetch('data.json')
         el.addEventListener('mouseleave', () => { cursor.classList.remove('hover'); ring.classList.remove('hover'); });
       });
     });
-
+    
     // Skills
     const skillsLayout = document.querySelector('.skills-layout');
     skillsLayout.innerHTML = '';

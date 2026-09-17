@@ -1,14 +1,14 @@
 {
   "hero": {
-    "tag": "ICT Student — Jyväskylä University of Applied Sciences",
+    "tag": "ICT Student, Jyväskylä University of Applied Sciences",
     "name": "Niki Rusi",
-    "description": "Programmer. From reinforcement learning to software development."
+    "description": "Programmer. From software development to data-analytics and machine learning."
   },
   "about": {
     "paragraphs": [
       "I'm Niki Rusi, an ICT student at Jyväskylä University of Applied Sciences with a focus on programming.",
-      "I enjoy making small to medium sized projects for personal use to try to help with my workflow in either my hobbies or my daily life.",
-      "Currently looking for work or internship opportunities."
+      "I enjoy 3D Modeling and making different types of projects with Python, C# or even with various game engines.",
+      "Currently looking for work."
     ]
   },
   "projects": [
@@ -33,6 +33,14 @@
       "tags": ["Android", "Bluetooth", "Research", "Internship"]
     }
   ],
+  "work_history": [
+    {
+      "position": "Internship at The German Aerospace Center",
+      "description": "Contributed to designing and making a serious research game in Godot and an Android app that calculated with bluetooth signals if the user was at a bus stop or in the bus. The app was made for a research project of the German Aerospace Center.",
+      "duration": "6 months",
+      "tags": ["Game Development", "Godot", "Android", "Bluetooth", "Research"]
+    }
+  ],
   "skills": [
     {
       "category": "Languages",
@@ -44,11 +52,11 @@
     },
     {
       "category": "Tools",
-      "items": ["Git", "Visual Studio", "Godot", "Unity"]
+      "items": ["Git", "Visual Studio", "Godot", "Unity", "Blender"]
     },
     {
       "category": "Topics",
-      "items": ["Reinforcement Learning", "Graphics Programming", "Software Development", "Game Development"]
+      "items": ["Reinforcement Learning", "Graphics Programming", "Software Development", "Game Development", "3D-Modeling"]
     }
   ],
   "contact": {
